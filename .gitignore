@@ -13,3 +13,7 @@ Saved
 *.xcodeproj
 *.xcworkspace
 .idea
+
+# Unreal Engine Build Files
+Build/Windows/FileOpenOrder/EditorOpenOrder.log
+Build/Windows/FileOpenOrder/CookerOpenOrder.log
