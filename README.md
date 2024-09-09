@@ -2,7 +2,7 @@
 
 ## 📥 Downloading
 
-Download latest version from [itch.io game page](https://timnekk.itch.io/radiantbloom).
+Download latest version from **[itch.io game page](https://timnekk.itch.io/radiantbloom)**.
 
 ## ❤️ Contributors
 
