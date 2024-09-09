@@ -1,7 +1,14 @@
-<h1 align=center><code>Radiant Bloom: Beyond Horizon</code></h1>
+<a href="https://github.com/TheCreators/RadiantBloom-BeyondHorizon"><img src="https://github.com/user-attachments/assets/8023a5b7-5673-4740-b384-4ba868190430" alt="Radiant Bloom: Beyond Horizon Banner" style="max-width: 100%; height: auto; object-fit: contain;"></a>
 
-<div align=center>Developed with Unreal Engine 5</div>
+## 📥 Downloading
 
+Download latest version from [itch.io game page](https://timnekk.itch.io/radiantbloom).
+
+## ❤️ Contributors
+
+<a href="https://github.com/TheCreators/RadiantBloom-BeyondHorizon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheCreators/RadiantBloom-BeyondHorizon"/>
+</a>
 
 ## 👥 Collaborating
 
